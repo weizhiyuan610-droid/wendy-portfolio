@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Wendy ZW | Strategic Consultant",
-  description: "Doctoral Researcher & Senior Education Marketing Consultant",
+  title: "Wendy ZW | Strategic Growth & Marketing Specialist",
+  description: "Bridging doctoral research rigor with market execution - $55K+ Monthly Revenue, 88% Success Rate, Doctoral Researcher in Engineering Design",
 };
 
 export default function RootLayout({
