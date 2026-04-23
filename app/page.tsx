@@ -34,7 +34,7 @@ export default function Home() {
       <nav className="px-6 md:px-10 py-4 md:py-5 border-b border-gray-200/50 flex justify-between items-center max-w-7xl mx-auto sticky top-0 z-50 bg-[#FAFAFA]/80 backdrop-blur-xl">
         <div className="flex flex-col">
           <span className="text-xl md:text-2xl font-semibold tracking-tight leading-none">Wendy ZW.</span>
-          <p className="text-[9px] md:text-[10px] font-medium text-gray-500 tracking-[0.15em] uppercase mt-1">Global Strategic Admissions</p>
+          <p className="text-[9px] md:text-[10px] font-medium text-gray-500 tracking-[0.15em] uppercase mt-1">Global Strategic Growth</p>
         </div>
 
         {/* Desktop Menu */}
@@ -79,7 +79,7 @@ export default function Home() {
 
         <p className="text-lg md:text-xl text-gray-600 font-normal leading-relaxed max-w-3xl mx-auto mb-10">
           Bridging the gap between doctoral research rigor and market execution.<br/>
-          Engineering measurable growth through data-driven enrollment optimization and strategic market positioning.
+          Turning complex market data into human-centric conversations and high-impact business opportunities.
         </p>
 
         <div className="flex items-center justify-center">
@@ -107,7 +107,7 @@ export default function Home() {
           {/* Metric 3 - Electric Blue Border */}
           <div className="bg-white/80 backdrop-blur-md rounded-3xl p-6 md:p-8 border-t-2 border-[#3B82F6] border-x border-b border-gray-200/50 hover:shadow-lg hover:shadow-[#3B82F6]/10 transition-all text-center">
             <p className="text-5xl md:text-6xl font-semibold text-[#3B82F6] leading-none mb-3">200+</p>
-            <p className="text-xs font-medium text-gray-500 uppercase tracking-wide">Global Candidates</p>
+            <p className="text-xs font-medium text-gray-500 uppercase tracking-wide">Global Prospects</p>
           </div>
 
           {/* Metric 4 - Gradient Border */}
@@ -118,12 +118,12 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Enrollment Strategy - With Colorful Borders */}
+      {/* Growth Strategy - With Colorful Borders */}
       <section id="expertise" className="max-w-6xl mx-auto px-6 md:px-8 pb-14 md:pb-16 relative z-10">
         <div className="text-center mb-12">
           <span className="text-xs font-medium text-[#1a4d8c] tracking-[0.2em] uppercase">Strategic Architecture</span>
-          <h2 className="text-3xl md:text-5xl font-semibold tracking-tight mt-4 mb-6">Enrollment Strategy</h2>
-          <p className="text-gray-600 max-w-2xl mx-auto">A systematic approach to student acquisition, qualification, and conversion</p>
+          <h2 className="text-3xl md:text-5xl font-semibold tracking-tight mt-4 mb-6">How I Build the Pipeline</h2>
+          <p className="text-gray-600 max-w-2xl mx-auto">Outbound prospecting, qualification, and pipeline conversion</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
@@ -134,11 +134,11 @@ export default function Home() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
               </svg>
             </div>
-            <h3 className="text-2xl font-semibold mb-4">Acquisition</h3>
-            <p className="text-gray-600 leading-relaxed mb-6">Strategic content distribution across high-intent channels, engineered for quality lead generation through omni-channel engagement.</p>
+            <h3 className="text-2xl font-semibold mb-4">Strategic Outbound Prospecting</h3>
+            <p className="text-gray-600 leading-relaxed mb-6">Account-Based Prospecting: I identify high-value stakeholders and navigate complex organizations using a tech-forward stack (Salesforce, LinkedIn, HubSpot).</p>
             <div className="space-y-3">
               <div className="flex items-center justify-between text-sm">
-                <span className="text-gray-500">Monthly Leads</span>
+                <span className="text-gray-500">Prospects Engaged</span>
                 <span className="font-semibold text-[#10B981]">500+</span>
               </div>
               <div className="flex items-center justify-between text-sm">
@@ -156,10 +156,10 @@ export default function Home() {
               </svg>
             </div>
             <h3 className="text-2xl font-semibold mb-4">Qualification</h3>
-            <p className="text-gray-600 leading-relaxed mb-6">Data-driven assessment framework ensuring optimal candidate-program fit while maintaining rigorous academic standards.</p>
+            <p className="text-gray-600 leading-relaxed mb-6">Smart Qualification: Ensuring every lead is a strategic fit for the product, with a focus on compliance and long-term scalability.</p>
             <div className="space-y-3">
               <div className="flex items-center justify-between text-sm">
-                <span className="text-gray-500">Concurrent Candidates</span>
+                <span className="text-gray-500">Qualified Meetings Set</span>
                 <span className="font-semibold text-[#1a4d8c]">200+</span>
               </div>
               <div className="flex items-center justify-between text-sm">
@@ -177,7 +177,7 @@ export default function Home() {
               </svg>
             </div>
             <h3 className="text-2xl font-semibold mb-4">Conversion</h3>
-            <p className="text-gray-600 leading-relaxed mb-6">Narrative-driven enrollment strategy that transforms qualified prospects into enrolled students through systematic value demonstration.</p>
+            <p className="text-gray-600 leading-relaxed mb-6">High-Conversion Outreach: Transforming qualified prospects into long-term partners through clear value demonstration and persistent follow-up.</p>
             <div className="space-y-3">
               <div className="flex items-center justify-between text-sm">
                 <span className="text-gray-500">Full-Funnel Rate</span>
@@ -198,7 +198,7 @@ export default function Home() {
               </svg>
             </div>
             <h3 className="text-2xl font-semibold mb-4">Market Intelligence</h3>
-            <p className="text-gray-600 leading-relaxed mb-6">2026 trend forecasting and competitive analysis, leveraging doctoral research methodologies to identify emerging market opportunities.</p>
+            <p className="text-gray-600 leading-relaxed mb-6">2026 trend forecasting and competitive analysis, using doctoral research methodologies to identify emerging market opportunities.</p>
             <div className="space-y-3">
               <div className="flex items-center justify-between text-sm">
                 <span className="text-gray-500">ESG Inquiry Growth</span>
@@ -242,9 +242,9 @@ export default function Home() {
               <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z"/>
             </svg>
             <blockquote className="font-serif text-2xl md:text-3xl text-gray-900 leading-relaxed italic mb-8">
-              "I don't just find leads; I architect stories that convert."
+              "Most SDRs spray and pray. I research, personalize, and start conversations that actually matter."
             </blockquote>
-            <cite className="text-sm font-medium text-gray-500 not-italic">— Wendy ZW, Doctoral Researcher & Signed Novelist</cite>
+            <cite className="text-sm font-medium text-gray-500 not-italic">— Wendy ZW, Doctoral Researcher & Cold Email Specialist</cite>
           </div>
         </div>
 
@@ -288,15 +288,15 @@ export default function Home() {
               <div className="space-y-4">
                 <div className="flex items-start gap-3">
                   <span className="text-amber-600 text-xl">✦</span>
-                  <p className="text-sm text-gray-700 leading-relaxed">Novelist-level storytelling precision that transforms complex value propositions into compelling narratives.</p>
+                  <p className="text-sm text-gray-700 leading-relaxed">Personalization at Scale: I write outbound sequences that actually get read. By ditching corporate jargon for authentic storytelling, I transform cold outreach into meaningful meetings.</p>
                 </div>
                 <div className="flex items-start gap-3">
                   <span className="text-amber-600 text-xl">✦</span>
-                  <p className="text-sm text-gray-700 leading-relaxed">Every word engineered for emotional resonance and strategic impact—driving +30% conversion uplift.</p>
+                  <p className="text-sm text-gray-700 leading-relaxed">I turn complex value propositions into personalized narratives that consistently convert cold leads into booked meetings.</p>
                 </div>
                 <div className="flex items-start gap-3">
                   <span className="text-amber-600 text-xl">✦</span>
-                  <p className="text-sm text-gray-700 leading-relaxed">Building trust through authentic voice—no corporate jargon, just genuine expertise and warmth.</p>
+                  <p className="text-sm text-gray-700 leading-relaxed">Writing cold emails that don't feel like cold emails—building genuine curiosity through relevance, insight, and human connection.</p>
                 </div>
               </div>
             </div>
@@ -353,15 +353,15 @@ export default function Home() {
               <div className="space-y-4">
                 <div className="flex items-start gap-3">
                   <span className="text-[#1a4d8c] text-xl">✦</span>
-                  <p className="text-sm text-gray-700 leading-relaxed">Engineering Design methodology applied to enrollment optimization—measurement, analysis, continuous improvement.</p>
+                  <p className="text-sm text-gray-700 leading-relaxed">Deep-Dive Prospecting: I use research methodologies to build dynamic ICPs. Instead of guessing, I rely on data to map markets and prioritize accounts where the product solves real pain points.</p>
                 </div>
                 <div className="flex items-start gap-3">
                   <span className="text-[#1a4d8c] text-xl">✦</span>
-                  <p className="text-sm text-gray-700 leading-relaxed">Evidence-based strategy: Every initiative grounded in quantitative analysis and validated through real-world performance.</p>
+                  <p className="text-sm text-gray-700 leading-relaxed">Evidence-based prospecting: Every outbound effort backed by statistical probability and strategic alignment with global compliance solutions.</p>
                 </div>
                 <div className="flex items-start gap-3">
                   <span className="text-[#1a4d8c] text-xl">✦</span>
-                  <p className="text-sm text-gray-700 leading-relaxed">Sustainable systems thinking—balancing immediate growth with long-term scalability and market resilience.</p>
+                  <p className="text-sm text-gray-700 leading-relaxed">Data-driven account prioritization—using research frameworks to identify high-potential accounts and decision-maker personas before making first contact.</p>
                 </div>
               </div>
             </div>
@@ -449,8 +449,8 @@ export default function Home() {
                 <div className="flex items-start gap-4">
                   <div className="w-2 h-2 rounded-full bg-gradient-to-r from-[#10B981] to-[#1a4d8c] mt-2 flex-shrink-0"></div>
                   <div>
-                    <h4 className="font-semibold text-lg mb-1">Sustainable Enrollment Ecosystems</h4>
-                    <p className="text-gray-600">Doctoral research focus on engineering scalable, data-driven student acquisition systems that balance growth with sustainability.</p>
+                    <h4 className="font-semibold text-lg mb-1">Sustainable Growth Ecosystems</h4>
+                    <p className="text-gray-600">Doctoral research focus on engineering scalable, data-driven acquisition systems that balance growth with sustainability.</p>
                   </div>
                 </div>
 
@@ -458,7 +458,7 @@ export default function Home() {
                   <div className="w-2 h-2 rounded-full bg-gradient-to-r from-[#1a4d8c] to-[#3B82F6] mt-2 flex-shrink-0"></div>
                   <div>
                     <h4 className="font-semibold text-lg mb-1">Engineering Optimization → Marketing ROI</h4>
-                    <p className="text-gray-600">Applying systematic engineering principles to enrollment challenges—measurement, optimization, and continuous improvement.</p>
+                    <p className="text-gray-600">Applying systematic engineering principles to growth challenges—measurement, optimization, and continuous improvement.</p>
                   </div>
                 </div>
 
@@ -474,7 +474,7 @@ export default function Home() {
                   <div className="w-2 h-2 rounded-full bg-gradient-to-r from-[#1a4d8c] to-[#3B82F6] mt-2 flex-shrink-0"></div>
                   <div>
                     <h4 className="font-semibold text-lg mb-1">Verified Outcomes</h4>
-                    <p className="text-gray-600">Imperial College, University of Toronto, G5 & Ivy League placements—proven success at the highest level.</p>
+                    <p className="text-gray-600">Successfully managed high-stakes portfolios in the premium education sector, including Imperial College, University of Toronto, G5 & Ivy League placements—proven success at the highest level.</p>
                   </div>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function Home() {
       <section id="contact" className="max-w-4xl mx-auto px-6 md:px-8 py-14 md:py-16 text-center relative z-10">
         <span className="text-xs font-medium bg-gradient-to-r from-[#10B981] to-[#1a4d8c] bg-clip-text text-transparent tracking-[0.2em] uppercase">Get in Touch</span>
         <h2 className="text-3xl md:text-5xl font-semibold tracking-tight mt-4 mb-6">Ready to Scale Your Growth?</h2>
-        <p className="text-gray-600 text-lg mb-10 max-w-2xl mx-auto">Let's discuss how data-driven strategy can transform your enrollment outcomes.</p>
+        <p className="text-gray-600 text-lg mb-10 max-w-2xl mx-auto">Let's discuss how a research-led, narrative-driven approach can scale your outbound efforts.</p>
 
         {/* Centered Email with Copy Functionality */}
         <div className="flex flex-col items-center justify-center gap-4">
